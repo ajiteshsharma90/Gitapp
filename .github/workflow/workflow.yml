@@ -18,5 +18,5 @@ jobs:
         user: Azure/pipeline@v1
         with:
           azure-devops-projecy-url: https://dev.azure.com/zuber1234567890/AgileProject
-          azure-pipeline-name: 'ajiteshsharma90.Gitapp'
+          azure-pipeline-name: 'webapp'
           azure-devops-token: ${{secret.AZURE_DEVOPS_TOKEN}}
